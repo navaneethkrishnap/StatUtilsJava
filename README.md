@@ -34,3 +34,10 @@
 1. Clone the repository:
    ```bash
    git clone https://github.com/navaneethkrishnap/StatUtilsJava.git
+2. Open the project in IntelliJ IDEA (or any Java IDE).
+
+3. Make sure `src/` is marked as **Sources Root**:
+   - Right-click `src` → `Mark Directory as > Sources Root`
+
+4. Compile and run `Main.java` to test the statistical methods.
+
