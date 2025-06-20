@@ -1,6 +1,6 @@
 # StatUtilsJava 📊
 
-**StatUtilsJava** is a lightweight Java library offering foundational and advanced statistical functions implemented manually — ideal for learning, academic use, or small-scale projects. Built incrementally using pure Java and OOP principles.
+**StatUtilsJava** is a ~~lightweight~~ Java library offering foundational and advanced statistical functions implemented manually — ideal for learning, academic use, or small-scale projects. Built incrementally using pure Java and OOP principles.
 
 ---
 
