@@ -16,3 +16,21 @@
 
 ---
 
+
+---
+
+## ⚙️ Features
+
+| Class               | Functions                                        |
+|---------------------|--------------------------------------------------|
+| `centralTendency`   | `computeMean()`, `computeMedian()`, `computeMode()` |
+| `dispersion`        | `sd()`, `variance()`, `range()`, `min()`, `max()` |                            |
+| `regression`        | `shortcutRegx()` for regression X on Y          |
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/navaneethkrishnap/StatUtilsJava.git
