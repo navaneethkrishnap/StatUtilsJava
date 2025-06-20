@@ -17,4 +17,10 @@
 ---
 
 ## 🧩 Project Structure
-
+StatUtilsJava/
+├── src/
+│ └── stat/
+│ ├── centralTendency.java
+│ ├── dispersion.java
+│ └── regression.java
+└── Main.java
